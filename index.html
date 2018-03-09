@@ -333,13 +333,6 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
-                       <div class="googlemap-wrapper">
-                            <div id="map_canvas" class="map-canvas"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
                     <div class="col-md-7 col-sm-6">
                         <ul class="contact-info">
                             <li>Phone: +43 660 2142833</li>
@@ -368,24 +361,6 @@
         <script src="js/bootstrap.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
-        <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
         <script src="js/vendor/jquery.gmap3.min.js"></script>
-        <script type="text/javascript">
-            jQuery(function($){
-                $('#map_canvas').gmap3({
-                    marker:{
-                        address: '46.6116460, 13.8452268' 
-                    },
-                        map:{
-                        options:{
-                        zoom: 15,
-                        scrollwheel: false,
-                        streetViewControl : true
-                        }
-                    }
-                });
-                $('body').bind('touchstart', function() {});
-            });
-        </script>
     </body>
 </html>
