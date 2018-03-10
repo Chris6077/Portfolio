@@ -599,6 +599,14 @@ hr {
   display: inline-block;
   border-bottom: 1px solid white;
 }
+.portfolio-item .portfolio-thumb .portfolio-overlay h3 a {
+  color: white;
+  text-decoration: none;
+}
+.portfolio-item .portfolio-thumb .portfolio-overlay p a {
+  color: white;
+  text-decoration: none;
+}
 .portfolio-item .portfolio-thumb .portfolio-overlay a.expand {
   margin-top: 15px;
   width: 36px;
