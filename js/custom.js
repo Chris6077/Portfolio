@@ -42,7 +42,7 @@ $(function () {
   /* typejs
   -------------------------------------------------------*/
   $('.info h3 span').typed({
-    strings: ["GUI/Ux Designer","Photographer","Devoloper","Graphic Designer", "Christian Winkler"],
+    strings: ["a GUI/Ux designer","a photographer","a devoloper","a graphic Designer", "Christian Winkler"],
     loop: true,
     startDelay: 500,
     backDelay: 3000
