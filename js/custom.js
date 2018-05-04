@@ -148,6 +148,7 @@ $(function () {
   // contact form
  // contact form
  $('#contact-form').validator();
+});
 
 var send = function () {
     try{
