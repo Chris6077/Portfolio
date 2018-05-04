@@ -152,7 +152,7 @@ $(function () {
      $('#contact-form').on('submit', function (e) {
          if (!e.isDefaultPrevented()) {
           try{
-            var x = emailjs.send("gmlail", "temp", {"reply_to":$("#form_email")[0].value,"from_name":$("#form_name")[0].value,"subject":$("#form_subject")[0].value,"message_html":$("#form_message")[0].value});
+            var x = emailjs.send("gmail", "temp", {"reply_to":$("#form_email")[0].value,"from_name":$("#form_name")[0].value,"subject":$("#form_subject")[0].value,"message_html":$("#form_message")[0].value});
             setTimeout(function(){
               if(x == 'OK'){
                 var alertBox = '<div class="alert ' + 'alert-success' + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + 'Contact form successfully submitted. Thank you, I will get back to you soon!' + '</div>';
