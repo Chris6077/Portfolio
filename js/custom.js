@@ -158,7 +158,7 @@ $(function () {
             $('#contact-form')[0].reset();
             return false;
           }
-          catch(){
+          catch{
             var alertBox = '<div class="alert ' + 'alert-danger' + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + 'There was an error while submitting the form. Please try again later' + '</div>';
           }
          }
