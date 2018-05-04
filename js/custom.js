@@ -151,7 +151,7 @@ $(function () {
  
      $('#contact-form').on('submit', function (e) {
          if (!e.isDefaultPrevented()) {
-            emailjs.send("gmail", "temp", {"reply_to":"x@gmail.com","from_name":"Name","subject":"SUbject","message_html":"Message"});
+            emailjs.send("gmail", "temp", {"reply_to":$("#form_email")[0].value,"from_name":$("#form_name")[0].value,"subject":$("#form_subject")[0].value,"message_html":$("#form_message")[0].value});
             var alertBox = '<div class="alert ' + 'alert-success' + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + 'worked' + '</div>';
             $('#contact-form').find('.messages').html(alertBox);
             $('#contact-form')[0].reset();
