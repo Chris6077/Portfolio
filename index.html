@@ -677,9 +677,8 @@
           
           <!-- contact form -->
           <div class="col-md-7 contact-form sm-mb-50">
-            <form class="form" id="contact-form" method="post" action="contact.php" data-toggle="validator">
+            <div class="form" id="contact-form" data-toggle="validator">
               <div class="messages"></div>
-
                 <div class="controls">
                   <div class="col-md-6">
                     <div class="form-group">
@@ -705,10 +704,10 @@
                     <div class="help-block with-errors"></div>
                   </div> 
                   <div class="col-md-12">
-                    <button class="button button-hot hvr-shutter-out-horizontal mb-30"><i class="fa fa-paper-plane" aria-hidden="true"></i>Send Message</button>
+                    <button class="button button-hot hvr-shutter-out-horizontal mb-30" onclick="send()"><i class="fa fa-paper-plane" aria-hidden="true"></i>Send Message</button>
                   </div>
                 </div>
-              </form>
+              </div>
             </div>
 
             <!-- map -->
