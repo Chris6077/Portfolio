@@ -33,12 +33,7 @@
 
     <!-- custom styles (optional) -->
     <link href="css/style.css" rel="stylesheet">
-    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
-<script>
-   (function(){
-      emailjs.init("user_r8zjmQcMxfAo3LUwnA90l");
-   })();
-</script>
+    
     <link rel="icon" href="./images/logo.png">
   </head>
   <body>
@@ -759,7 +754,7 @@
     <script src="js/owl.carousel.min.js"></script>
 
     <!-- typed -->
-    <script src="js/typed.js"></script>
+    <script media="only screen and (min-device-width: 480px)" src="js/typed.js"></script>
 
     <!-- magnific-popup -->
 		<script src="js/jquery.magnific-popup.min.js"></script>
@@ -791,6 +786,19 @@
     <script src="js/map.js"></script>
 
     <!-- custom JavaScript -->
-    <script src="js/custom.js"></script>
+    <script type="text/javascript">
+      if( /Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)) document.write('<script src="js/customMobile.js"><\/script>');
+      else document.write('<script src="js/custom.js"><\/script>');
+    </script>
+    <!--<script media="only screen and (min-device-width: 480px)" src="js/custom.js"></script>
+    <script media="only screen and (max-device-width: 480px)" src="js/customMobile.js"></script>-->
+
+    <!-- email form -->
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+       (function(){
+          emailjs.init("user_r8zjmQcMxfAo3LUwnA90l");
+       })();
+    </script>
   </body>
 </html>
