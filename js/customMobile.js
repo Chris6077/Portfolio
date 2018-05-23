@@ -60,7 +60,7 @@ $(function () {
   -------------------------------------------------------*/
   wind.on("scroll",function () {
     
-      var bodyScroll = wind.scrollTop()
+      var bodyScroll = wind.scrollTop();
 
       if(bodyScroll > 500){
 
@@ -202,4 +202,4 @@ $(window).load(function(){
   
     });
 
-})
+});
