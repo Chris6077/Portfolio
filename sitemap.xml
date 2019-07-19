@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://bashit.me/</loc>
+        <loc>https://bashit.me</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>1.00</priority>
     </url>
     <url>
-        <loc>https://bashit.me/legal.html</loc>
+        <loc>https://bashit.me/legal</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://bashit.me/pp.html</loc>
+        <loc>https://bashit.me/privacy</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
@@ -21,62 +21,62 @@
 		<priority>0.80</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/apis/workatrack/</loc>
+        <loc>https://fcc.bashit.me/apis/workatrack</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/datavisualization/cm/</loc>
+        <loc>https://fcc.bashit.me/datavisualization/cm</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/datavisualization/td/</loc>
+        <loc>https://fcc.bashit.me/datavisualization/td</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/frontend/drums/</loc>
+        <loc>https://fcc.bashit.me/frontend/drums</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/isqa/issuetracker/</loc>
+        <loc>https://fcc.bashit.me/isqa/issuetracker</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/isqa/library/</loc>
+        <loc>https://fcc.bashit.me/isqa/library</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/isqa/messageboard/</loc>
+        <loc>https://fcc.bashit.me/isqa/messageboard</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/isqa/metricimperial/</loc>
+        <loc>https://fcc.bashit.me/isqa/metricimperial</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/isqa/stockprice/</loc>
+        <loc>https://fcc.bashit.me/isqa/stockprice</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/responsivewd/documentation/</loc>
+        <loc>https://fcc.bashit.me/responsivewd/documentation</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/responsivewd/landing/</loc>
+        <loc>https://fcc.bashit.me/responsivewd/landing</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://fcc.bashit.me/responsivewd/survey/</loc>
+        <loc>https://fcc.bashit.me/responsivewd/survey</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
@@ -86,137 +86,137 @@
 		<priority>0.80</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/eventify/</loc>
+        <loc>https://legacy.bashit.me/backend/eventify</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/filemetadata/</loc>
+        <loc>https://legacy.bashit.me/backend/filemetadata</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/imagesearch/</loc>
+        <loc>https://legacy.bashit.me/backend/imagesearch</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/pinsanity/</loc>
+        <loc>https://legacy.bashit.me/backend/pinsanity</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/realepoll/</loc>
+        <loc>https://legacy.bashit.me/backend/realepoll</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/shurle/</loc>
+        <loc>https://legacy.bashit.me/backend/shurle</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/timestamp/</loc>
+        <loc>https://legacy.bashit.me/backend/timestamp</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/backend/wormtrading/</loc>
+        <loc>https://legacy.bashit.me/backend/wormtrading</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/barchart/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/barchart</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/dungemon/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/dungemon</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/fdg/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/fdg</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/gameoflife/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/gameoflife</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/heatmap/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/heatmap</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/leaderboard/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/leaderboard</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/mapdata/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/mapdata</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/markdown/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/markdown</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/recipe/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/recipe</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/datavisualization/sg/</loc>
+        <loc>https://legacy.bashit.me/datavisualization/sg</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/calculator/</loc>
+        <loc>https://legacy.bashit.me/frontend/calculator</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/pomodoro/</loc>
+        <loc>https://legacy.bashit.me/frontend/pomodoro</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/quotefactory/</loc>
+        <loc>https://legacy.bashit.me/frontend/quotefactory</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/simon/</loc>
+        <loc>https://legacy.bashit.me/frontend/simon</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/tribute/</loc>
+        <loc>https://legacy.bashit.me/frontend/tribute</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/ttt/</loc>
+        <loc>https://legacy.bashit.me/frontend/ttt</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/twitch/</loc>
+        <loc>https://legacy.bashit.me/frontend/twitch</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/weather/</loc>
+        <loc>https://legacy.bashit.me/frontend/weather</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
     <url>
-        <loc>https://legacy.bashit.me/frontend/wikipedia/</loc>
+        <loc>https://legacy.bashit.me/frontend/wikipedia</loc>
 		<lastmod>2019-03-23T19:03:31+00:00</lastmod>
 		<priority>0.60</priority>
     </url>
