@@ -275,4 +275,9 @@
 		<lastmod>2019-11-02T09:02:00+00:00</lastmod>
 		<priority>0.75</priority>
 	</url>
+	<url>
+		<loc>https://clock.bashit.me</loc>
+		<lastmod>2020-02-14T09:02:00+00:00</lastmod>
+		<priority>0.75</priority>
+	</url>	
 </urlset>
